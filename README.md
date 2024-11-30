@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rimsha Sarfaraz</h1>
-<h3 align="center">I am a Computer Science Senior at Lahore University of Management Sciences (LUMS), Pakistan. I am mostly interested in Data Science, Research & Software Engineering</h3>
+<h3 align="center">I am a Research Assistant with a Bachelor's degree in Computer Science from Lahore University of Management Sciences (LUMS), Pakistan. My primary interests include Usable Security & Privacy, Human-Computer Interaction (HCI), Data Science, and Misinformation. </h3>
 
-- 🔭 I’m currently working on **developing a game that will help the player in making their truth discernment better. Effectiveness of multiple interventions including Narrative based intervention, Accuracy Nudge, Educational Intervention, and Corrective Intervention will be tested.**
+- 🔭 Currently, I am developing a game designed to enhance players' ability to discern the truth. The game incorporates and evaluates the effectiveness of various interventions, including narrative-based storytelling, accuracy nudges, educational elements, and corrective feedback.**
 
 - 📫 How to reach me **rimsha.sa@outlook.com**
 
